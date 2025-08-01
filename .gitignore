@@ -1,0 +1,27 @@
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test files
+target-site.html
+test-*.html
+*.png
+*.jpg
+*.jpeg
+
+# Temporary files
+*.tmp
+*.bak
+examples/
+
+# MoneyMoney specific
+*.signed
+
+# Development files
+debug.log
+test-output.txt
